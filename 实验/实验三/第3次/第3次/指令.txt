@@ -1,0 +1,2 @@
+gcc -march=native -o CacheTime CacheTime.c
+秘密地址fbbdf000
